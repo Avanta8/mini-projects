@@ -5,8 +5,8 @@ A collections of some small projects I have worked on.
 Some of these projects are ideas I've wanted to do myself, as well as a collection of programming tasks from websites such as [Codewars](https://www.codewars.com).
 
 
-Project |
----
+Project
+--- |
 [Nonogram Solver](projects/nonogram)
 [Loopover Solver](projects/loopover)
 [Minesweeper Solver](projects/minesweeper)
