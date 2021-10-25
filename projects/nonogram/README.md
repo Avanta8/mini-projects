@@ -1,6 +1,6 @@
 # Nonogram Solver
 
-Solution for my own [Nonogram](https://www.codewars.com/kata/5c1d796370fee68b1e000611) Codewars kata, created by myself :)
+Solution for my own [Nonogram](https://www.codewars.com/kata/5a5519858803853691000069) Codewars kata, created by myself :)
 
 ### Problem Detail
 
