@@ -39,8 +39,6 @@ class Minesweeper:
 
         self.active = {pos: val for pos, val in grid.items()
                        if val != -1 and any(grid[v] == -1 for v in self.get_borders(pos))}
-        if self.height == 29 and self.width == 20:
-            self.open_(28j)
 
     def solve(self):
         """Perfom the steps to solve the grid.
